@@ -7,6 +7,6 @@
   <div style="display: inline_block"><br>
     <img align="center" alt="Lucx33-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
     <img align="center" alt="Lucx33-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Lucx33-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Lucx33-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javas/java-original.svg">
     <img align="center" alt="Lucx33-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
 </div>
