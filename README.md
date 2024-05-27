@@ -11,4 +11,5 @@
     <img align="center" alt="Lucx33-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
 </div>
 <div align="center">
-  <img height="'80em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucx33&theme=dark&hide_border=false"
+  <img height="'80em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucx33&theme=dark&hide_border=false"/>
+</div>
