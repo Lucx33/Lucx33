@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/header.gif" alt="Lucx33 — developer" width="640" />
+  <img src="assets/header.webp" alt="Lucx33 - developer" width="640" />
 </p>
